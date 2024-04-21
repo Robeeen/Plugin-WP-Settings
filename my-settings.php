@@ -10,7 +10,7 @@ Author URI: https://shamskhan.xyz
 
 if( !defined('ABSPATH'))
 {
-    exit; // Exit if accessed directly
+    exit; // Exit if accessed directly.
 }
 
 //add sections, fields and settings - 
